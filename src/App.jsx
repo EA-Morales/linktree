@@ -1,6 +1,5 @@
 import "./styles/App.css";
 
-import Webpage from "@/assets/icons/Webpage";
 import portfolio from "@/assets/img/portfolio.png";
 import github from "@/assets/img/github.png";
 import linkedin from "@/assets/img/linkedin.png";
@@ -12,7 +11,7 @@ function App() {
 		<div
 			className='flex h-screen items-center justify-center bg-cover bg-center'
 			style={{ backgroundImage: `url(${background})` }}>
-			<div className='mt-10 flex h-5/6 w-2/3 max-w-sm flex-col items-center rounded-2xl'>
+			<div className='mt-10 flex h-5/6 w-2/3 min-w-[300px] max-w-sm flex-col items-center rounded-2xl'>
 				<div className='flex w-full flex-col items-center'>
 					<figure
 						className='h-24 w-24 rounded-full border-2 border-gray-800 bg-cover bg-center p-5'
