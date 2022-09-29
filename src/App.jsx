@@ -3,14 +3,11 @@ import "./styles/App.css";
 import portfolio from "@/assets/img/portfolio.png";
 import github from "@/assets/img/github.png";
 import linkedin from "@/assets/img/linkedin.png";
-import background from "@/assets/img/background.jpg";
 import avatar from "@/assets/img/avatar.jpg";
 
 function App() {
 	return (
-		<div
-			className='flex h-screen items-center justify-center bg-cover bg-center'
-			style={{ backgroundImage: `url(${background})` }}>
+		<div className='main flex h-screen items-center justify-center bg-cover bg-center'>
 			<div className='mt-10 flex h-5/6 w-2/3 min-w-[300px] max-w-sm flex-col items-center rounded-2xl'>
 				<div className='flex w-full flex-col items-center'>
 					<figure
