@@ -21,7 +21,7 @@ function App() {
 					<h2 className='text-center text-xl text-white'>FrontEnd Developer</h2>
 					<div className='mt-10 flex w-full max-w-md flex-col items-center gap-3 md:max-w-md'>
 						<a
-							className='flex w-full items-center justify-center gap-4 rounded-3xl bg-white/10 py-2 px-4 shadow-sm backdrop-blur-sm'
+							className='flex w-full items-center justify-center gap-4 rounded-3xl bg-white/10 py-2 px-4 shadow-sm backdrop-blur-sm duration-500 hover:scale-110 hover:transition hover:delay-75'
 							href='https://agustinmorales-portfolio.vercel.app'
 							rel='noreferrer'
 							target={"_blank"}>
@@ -32,7 +32,7 @@ function App() {
 							</p>
 						</a>
 						<a
-							className='flex w-full justify-center gap-4 rounded-3xl bg-white/10 py-2 px-4 shadow-sm backdrop-blur-sm'
+							className='flex w-full items-center justify-center gap-4 rounded-3xl bg-white/10 py-2 px-4 shadow-sm backdrop-blur-sm duration-500 hover:scale-110 hover:transition hover:delay-75'
 							href='https://github.com/EA-Morales'
 							rel='noreferrer'
 							target={"_blank"}>
@@ -40,7 +40,7 @@ function App() {
 							<p className='mr-auto text-center text-xl text-white'>Github</p>
 						</a>
 						<a
-							className='flex w-full justify-center gap-4 rounded-3xl bg-white/10 py-2 px-4 shadow-sm backdrop-blur-sm'
+							className='flex w-full items-center justify-center gap-4 rounded-3xl bg-white/10 py-2 px-4 shadow-sm backdrop-blur-sm duration-500 hover:scale-110 hover:transition hover:delay-75'
 							href='https://www.linkedin.com/in/eduardo-agustin-morales'
 							rel='noreferrer'
 							target={"_blank"}>
