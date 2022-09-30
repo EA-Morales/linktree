@@ -3,7 +3,7 @@ import "./styles/App.css";
 import portfolio from "@/assets/img/portfolio.png";
 import github from "@/assets/img/github.png";
 import linkedin from "@/assets/img/linkedin.png";
-import avatar from "@/assets/img/avatar.jpg";
+import avatar from "@/assets/img/avatar.webp";
 
 function App() {
 	return (
