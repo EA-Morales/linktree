@@ -28,6 +28,7 @@
     "react/prop-types": "off",
     "react/jsx-uses-react": "off",
     "react/react-in-jsx-scope": "off",
+    "tailwindcss/no-custom-classname": "disable", // disable warning no custom classes tailwind
     "prettier/prettier": [
       "warn",
       {

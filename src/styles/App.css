@@ -7,3 +7,8 @@
     background-image: url("../assets/img/background-mobile.webp");
   }
 }
+
+.cuadro { 
+  border: 1px blue dotted;
+  padding: 10px 5px; 
+}

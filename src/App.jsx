@@ -34,7 +34,9 @@ function App() {
 							rel='noreferrer'
 							target={"_blank"}>
 							<img alt='' className='mr-auto h-7' src={github} />
-							<p className='mr-auto text-center text-xl text-white'>Github</p>
+							<p className='mr-auto text-center text-xl text-white'>
+								                 Github
+											</p>
 						</a>
 						<a
 							className='flex w-full items-center justify-center gap-4 rounded-3xl bg-white/10 py-2 px-4 shadow-sm backdrop-blur-sm duration-500 hover:scale-110 hover:transition hover:delay-75'
