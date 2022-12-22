@@ -17,7 +17,7 @@
 
 
 ## General Information
-- Provide general information about your project here.
+- This project was created with the intention of resembling the Linktree app.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
@@ -38,8 +38,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.webp)
 <!-- If you have screenshots you'd like to share, include them here. -->
+![Screenshot linktree app](./img/screenshot.webp)
 
 
 ## Setup
